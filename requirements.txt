@@ -1,0 +1,7 @@
+torch – for PyTorch (Faster R-CNN)
+
+torchvision – for models and transforms
+
+cv2 – OpenCV for image/video processing
+
+json, dataset – standard or internal modules
